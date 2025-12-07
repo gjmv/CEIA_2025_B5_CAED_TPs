@@ -12,17 +12,9 @@ Bimestre 5
 ## Alumno:
 * Gustavo Viñas
 
-## TP1
-
-### Implementación de una máquina de Turing que realice la división de dos números enteros (convertidos a binario).
-
-Notebook <a href="TP1/turing_machine.ipynb">turing_machine.ipynb</a>  
-Colab <a href="https://colab.research.google.com/github/gjmv/CEIA_2025_B5_CAED_TPs/blob/main/TP1/turing_machine.ipynb">turing_machine.ipynb</a>  
-
 ## TP2
 
 ### Implementación del algoritmo de conteo de inversiones en un arreglo.
 
-Notebook <a href="TP2/conteo_de_inversiones.ipynb">conteo_de_inversiones.ipynb</a>  
+Notebook <a href="conteo_de_inversiones.ipynb">conteo_de_inversiones.ipynb</a>  
 Colab <a href="https://colab.research.google.com/github/gjmv/CEIA_2025_B5_CAED_TPs/blob/main/TP2/conteo_de_inversiones.ipynb">conteo_de_inversiones.ipynb</a>  
-
