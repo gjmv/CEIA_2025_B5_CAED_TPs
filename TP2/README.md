@@ -16,5 +16,6 @@ Bimestre 5
 
 ### Implementación del algoritmo de conteo de inversiones en un arreglo.
 
+Enunciado: <a href="TP2/Enunciado TP2.pdf">Enunciado TP2</a>  
 Notebook <a href="conteo_de_inversiones.ipynb">conteo_de_inversiones.ipynb</a>  
 Colab <a href="https://colab.research.google.com/github/gjmv/CEIA_2025_B5_CAED_TPs/blob/main/TP2/conteo_de_inversiones.ipynb">conteo_de_inversiones.ipynb</a>  

@@ -16,6 +16,7 @@ Bimestre 5
 
 ### Implementación de una máquina de Turing que realice la división de dos números enteros (convertidos a binario).
 
+Enunciado: <a href="TP1/Enunciado TP1.pdf">Enunciado TP1</a>  
 Notebook <a href="TP1/turing_machine.ipynb">turing_machine.ipynb</a>  
 Colab <a href="https://colab.research.google.com/github/gjmv/CEIA_2025_B5_CAED_TPs/blob/main/TP1/turing_machine.ipynb">turing_machine.ipynb</a>  
 
@@ -23,6 +24,7 @@ Colab <a href="https://colab.research.google.com/github/gjmv/CEIA_2025_B5_CAED_T
 
 ### Implementación del algoritmo de conteo de inversiones en un arreglo.
 
+Enunciado: <a href="TP2/Enunciado TP2.pdf">Enunciado TP2</a>  
 Notebook <a href="TP2/conteo_de_inversiones.ipynb">conteo_de_inversiones.ipynb</a>  
 Colab <a href="https://colab.research.google.com/github/gjmv/CEIA_2025_B5_CAED_TPs/blob/main/TP2/conteo_de_inversiones.ipynb">conteo_de_inversiones.ipynb</a>  
 
@@ -30,6 +32,7 @@ Colab <a href="https://colab.research.google.com/github/gjmv/CEIA_2025_B5_CAED_T
 
 ### Alineación de Secuencias Genéticas mediante el Algoritmo de Needleman–Wunsch.
 
+Enunciado: <a href="TP3/Enunciado TP3.pdf">Enunciado TP3</a>  
 Documento <a href="TP3/Conceptos_teóricos.pdf">Conceptos Teóricos</a>  
 Implementación del algoritmo:
 * Notebook <a href="TP3/implementacion_needleman_wunsch.ipynb">implementacion_needleman_wunsch.ipynb</a>  

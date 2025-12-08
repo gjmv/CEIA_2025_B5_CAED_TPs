@@ -16,6 +16,7 @@ Bimestre 5
 
 ### Alineación de Secuencias Genéticas mediante el Algoritmo de Needleman–Wunsch.
 
+Enunciado: <a href="TP3/Enunciado TP3.pdf">Enunciado TP3</a>  
 Documento <a href="Conceptos_teóricos.pdf">Conceptos Teóricos</a>  
 Implementación del algoritmo:
 * Notebook <a href="implementacion_needleman_wunsch.ipynb">implementacion_needleman_wunsch.ipynb</a>  
